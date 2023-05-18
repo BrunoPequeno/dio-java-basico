@@ -1,3 +1,5 @@
+package ExemplosMetodos;
+
 public class SmartTV {
     boolean ligada = true;
     int canal = 1;

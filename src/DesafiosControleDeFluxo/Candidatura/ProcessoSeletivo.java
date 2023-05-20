@@ -53,7 +53,7 @@ public class ProcessoSeletivo {
         System.out.println("============= - =============");
     }
     static void selecaoCandidatos(){
-        String [] candidatos = {"LUCAS","GEISA","BIANCA","PAULO","EMILLY","BRUNO","FABRÍCIO","ANTÔNIO","DANIELA","JORGE"};
+        String [] candidatos = {"LUCAS","GEISA","BIANCA","PAULO","EMILLY","BRUNO","FABRÍCIO","ANTÔNIO","DANIELA","JORGE", "DANILO","JULIANA"};
         int candidatosSelecionados = 0, candidatoAtual = 0;
         double salarioBase = 2000.0;
 
